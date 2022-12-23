@@ -14,6 +14,7 @@ Requisitos:<br/>
 
 
 
-cd frontend
+cd react-app
+npm install
 npm run dev
 ```
