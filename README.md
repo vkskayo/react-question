@@ -15,5 +15,5 @@ Requisitos:<br/>
 
 
 cd frontend
-npm start
+npm run dev
 ```
